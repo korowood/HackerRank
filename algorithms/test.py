@@ -1,21 +1,7 @@
-import math
-import os
-import random
-import re
-import sys
-
-
-# Complete the introTutorial function below.
-def introTutorial(V, arr):
-    return arr.index(V)
-
-
-if __name__ == '__main__':
-    V = int(input())
-
-    n = int(input())
-
-    arr = list(map(int, input().rstrip().split()))
-
-    result = introTutorial(V, arr)
-    print(result)
+x = [1, 2, 3]
+print(tuple(x[-1:]))
+y = x
+y.append(tuple(x[-1:]))
+x[2] = 5
+result = ''.join([str(elem) for elem in y])
+print(result)

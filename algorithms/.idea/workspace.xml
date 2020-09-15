@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f427b30-ac1e-445f-b50d-5c33b1d8b37d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Greedy/Mark and Toys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greedy/Max Min.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greedy/Permuting Two Arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Grading Students.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Marc's Cakewalk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/Marc's Cakewalk.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maximum Perimeter Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/Maximum Perimeter Triangle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +38,8 @@
       <recent name="D:\питон задачи\HackerRank\algorithms\Greedy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Max Min">
-    <configuration name="Marc's Cakewalk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Grading Students">
+    <configuration name="Grading Students" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +47,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Implementation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\питон задачи\HackerRank\algorithms\Greedy\Marc's Cakewalk.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implementation/Grading Students.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Grading Students" />
         <item itemvalue="Python.Max Min" />
         <item itemvalue="Python.Mark and Toys" />
         <item itemvalue="Python.Permuting Two Arrays" />
         <item itemvalue="Python.Maximum Perimeter Triangle" />
-        <item itemvalue="Python.Marc's Cakewalk" />
       </list>
     </recent_temporary>
   </component>
@@ -176,41 +172,49 @@
       <option name="project" value="LOCAL" />
       <updated>1599772646870</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="practice 11.09.2020">
+      <created>1599858582230</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599858582230</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="practice 10.09.2020" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice 10.09.2020" />
+    <MESSAGE value="practice 11.09.2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice 11.09.2020" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1599772645394">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1599858580728">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599772645394" />
-    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1599858455453">
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599858580728" />
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1600203761469">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599858455453" />
-    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1599858455452">
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600203761469" />
+    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1600203761469">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599858455452" />
-    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1599858455452">
+    <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600203761469" />
+    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1600203761469">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599858455452" />
-    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1599858455452">
+    <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600203761469" />
+    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1600203761469">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599858455452" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599772662844">
+    <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600203761469" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599858595708">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599772662844" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1599769589196">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599858595708" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1600202641732">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599769589196" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1600202641732" />
   </component>
 </project>
